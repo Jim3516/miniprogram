@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "first",
+  "backgroundColor": "#ffffff",
+  "backgroundTextStyle":"dark",
+  "enablePullDownRefresh":true
+}
